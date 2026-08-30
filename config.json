@@ -1,0 +1,53 @@
+{
+  "site_name": "Cleanwin",
+  "base_url": "https://cleanwin.ch",
+  "sitemap_url": "https://cleanwin.ch/sitemap.xml",
+  "local_sitemap": "sitemap.xml",
+  "timeout_seconds": 20,
+  "retries": 2,
+  "retry_backoff_seconds": 1.0,
+  "request_delay_seconds": 0.05,
+  "user_agent": "CleanwinChangeMonitor/2.0 (+https://cleanwin.ch)",
+  "main_selectors": [
+    "main",
+    "#main",
+    ".site-main",
+    "article",
+    ".elementor-location-single",
+    "body"
+  ],
+  "ignore_selectors": [
+    "#cookie-law-info-bar",
+    ".cookie-notice",
+    ".cky-consent-container",
+    ".cmplz-cookiebanner",
+    ".grecaptcha-badge",
+    "[data-nosnippet]",
+    "[aria-live='polite']",
+    "[aria-live='assertive']"
+  ],
+  "volatile_attributes": [
+    "nonce",
+    "integrity",
+    "crossorigin",
+    "data-nonce",
+    "data-token",
+    "data-session",
+    "data-timestamp"
+  ],
+  "ignore_text_patterns": [
+    "^wird geladen[.!…]*$",
+    "^loading[.!…]*$"
+  ],
+  "content_change_min_chars": 1,
+  "content_change_medium_ratio": 0.03,
+  "content_change_high_ratio": 0.2,
+  "max_diff_chars_per_block": 5000,
+  "max_before_after_chars": 3000,
+  "report_fetch_failures": false,
+  "ai_risks": [
+    "medium",
+    "high",
+    "critical"
+  ]
+}

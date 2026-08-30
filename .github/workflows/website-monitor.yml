@@ -1,0 +1,88 @@
+name: Cleanwin Website Monitor
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Prüfmodus
+        required: true
+        default: daily
+        type: choice
+        options:
+          - daily
+          - weekly
+          - monthly
+
+  schedule:
+    - cron: "15 5 * * 1-5"
+    - cron: "45 5 * * 0"
+    - cron: "15 6 1 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cleanwin-website-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python installieren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Prüfmodus bestimmen
+        id: mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ inputs.mode }}"
+          elif [ "${{ github.event.schedule }}" = "45 5 * * 0" ]; then
+            MODE="weekly"
+          elif [ "${{ github.event.schedule }}" = "15 6 1 * *" ]; then
+            MODE="monthly"
+          else
+            MODE="daily"
+          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "Prüfmodus: $MODE"
+
+      - name: Crawler Self-Test
+        run: python -m cleanwin_monitor.cli --self-test
+
+      - name: Website prüfen
+        run: python -m cleanwin_monitor.cli --mode "${{ steps.mode.outputs.mode }}"
+
+      - name: Report als Artefakt speichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: cleanwin-report-${{ github.run_number }}
+          path: reports/
+          retention-days: 90
+
+      - name: Baseline und Reports speichern
+        shell: bash
+        run: |
+          git config user.name "cleanwin-monitor"
+          git config user.email "cleanwin-monitor@users.noreply.github.com"
+          git add state/ reports/
+          if git diff --cached --quiet; then
+            echo "Keine neuen State-/Report-Dateien."
+            exit 0
+          fi
+          git commit -m "monitor: update website baseline and report"
+          git push
