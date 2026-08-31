@@ -1,0 +1,42 @@
+{
+  "blocks": {
+    "glasreinigung-varias-immobilien": {
+      "digest": "31332f41ab0e76d3e4709858c098e6ba74b5462dd118271ef4b8b2a84be0dbea",
+      "heading": "Glasreinigung Varias Immobilien",
+      "key": "glasreinigung-varias-immobilien",
+      "text": "Alle 2 Fensterreinigung 1 Solarreinigung 1 Fensterreinigung Glasreinigung Varias Immobilien Varias Immobilien Wohn- und GeschÃ¤ftsliegenschaften Winterthur Details ansehen Solarreinigung Unterhaltsreinigung Solarfassade Diamant Keller GebÃ¤ude Zurich Soft Robotics GmbH / KELLER Pressure AG Solarfassade Diamant Keller GebÃ¤ude (St. Gallerstrasse 122) Winterthur Details ansehen"
+    },
+    "haben-sie-ein-hnliches-reinigungsprojekt": {
+      "digest": "f0dd5a73a18e3f3953e3862252c4abf84b592ef5b0d5256ac211c7f9f92dcaf3",
+      "heading": "Haben Sie ein Ã¤hnliches Reinigungsprojekt?",
+      "key": "haben-sie-ein-hnliches-reinigungsprojekt",
+      "text": "Haben Sie ein Ã¤hnliches Reinigungsprojekt? Fordern Sie jetzt in weniger als 2 Minuten Ihre unverbindliche Offerte an. Jetzt Offerte anfordern"
+    },
+    "unsere-referenzen": {
+      "digest": "7b3f5f7c22d0ebfa32568693a8d502cbddc8dccb2a34f9bd72bf8d587ea5d2bf",
+      "heading": "Unsere Referenzen",
+      "key": "unsere-referenzen",
+      "text": "Unsere Referenzen Ãberzeugen Sie sich von unserer QualitÃ¤tsarbeit. Ein Auszug erfolgreicher Reinigungen fÃ¼r Privat- und GeschÃ¤ftskunden in Winterthur und Umgebung."
+    }
+  },
+  "canonical": "https://cleanwin.ch/referenzen/",
+  "content_chars": 687,
+  "content_type": "text/html",
+  "description": "Entdecken Sie ausgewÃ¤hlte Reinigungsprojekte und Referenzen von CleanWin in Winterthur, ZÃ¼rich und Umgebung. GrÃ¼ndlich, zuverlÃ¤ssig und meisterhaft ausgefÃ¼hrt.",
+  "etag": "",
+  "final_url": "https://cleanwin.ch/referenzen/",
+  "h1": [
+    "Unsere Referenzen"
+  ],
+  "html_bytes": 223580,
+  "internal_links": [
+    "https://cleanwin.ch/"
+  ],
+  "jsonld": "{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#organization\",\"@type\":\"LocalBusiness\",\"additionalType\":[\"https://schema.org/CleaningService\",\"https://schema.org/HomeAndConstructionBusiness\"],\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"CH\",\"addressLocality\":\"Winterthur\",\"addressRegion\":\"ZH\",\"postalCode\":\"8406\",\"streetAddress\":\"Wasserfurristrasse 37\"},\"areaServed\":[{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Winterthur\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"ZÃ¼rich\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Kloten\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Uster\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Wetzikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"DÃ¼bendorf\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Seuzach\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"TG\"},\"name\":\"Frauenfeld\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"SH\"},\"name\":\"Schaffhausen\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Illnau-Effretikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Andelfingen\"}],\"contactPoint\":{\"@type\":\"ContactPoint\",\"areaServed\":\"CH\",\"availableLanguage\":[\"de\",\"en\"],\"contactType\":\"Kundenservice\",\"email\":\"kontakt@cleanwin.ch\",\"telephone\":\"+41525512424\"},\"description\":\"Professionelle Reinigungsfirma fÃ¼r Solar-, Fenster-, Fassaden- und GebÃ¤udereinigung in Winterthur, ZÃ¼rich und Umgebung\",\"email\":\"kontakt@cleanwin.ch\",\"foundingDate\":\"2025-03-01\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":47.499,\"longitude\":8.724},\"image\":\"https://cleanwin.ch/og-image.webp\",\"legalName\":\"CleanWin GmbH\",\"logo\":\"https://cleanwin.ch/cleanwin-logo.svg\",\"name\":\"CleanWin GmbH\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"08:00\"}],\"paymentAccepted\":[\"Cash\",\"Rechnung\",\"Twint\",\"Kreditkarte\"],\"priceRange\":\"CHF 199 - CHF 2000\",\"slogan\":\"Professionelle Reinigung fÃ¼r Winterthur & ZÃ¼rich\",\"telephone\":\"+41525512424\",\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#website\",\"@type\":\"WebSite\",\"name\":\"CleanWin\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=search_term_string\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://cleanwin.ch/leistungen?q={search_term_string}\"}},\"publisher\":{\"@id\":\"https://cleanwin.ch/#organization\"},\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://cleanwin.ch/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"name\":\"Referenzen\",\"position\":2}]}\n{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"description\":\"Entdecken Sie ausgewÃ¤hlte Reinigungsprojekte und Referenzen von CleanWin in Winterthur, ZÃ¼rich und Umgebung. GrÃ¼ndlich, zuverlÃ¤ssig und meisterhaft ausgefÃ¼hrt.\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"CleanWin GmbH\",\"url\":\"https://cleanwin.ch/\"},\"mainEntity\":{\"@type\":\"ItemList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":{\"@type\":\"CreativeWork\",\"description\":\"Wohn- und GeschÃ¤ftsliegenschaften in Winterthur (Fensterreinigung)\",\"image\":\"https://cleanwin.ch/media/referenzen/CleanWin_Referenz_Varias_7.webp\",\"name\":\"Glasreinigung Varias Immobilien\",\"provider\":{\"@type\":\"LocalBusiness\",\"name\":\"CleanWin GmbH\",\"url\":\"https://cleanwin.ch/\"}},\"position\":1},{\"@type\":\"ListItem\",\"item\":{\"@type\":\"CreativeWork\",\"description\":\"Solarfassade Diamant Keller GebÃ¤ude (St. Gallerstrasse 122) in Winterthur (Solarreinigung)\",\"image\":\"https://cleanwin.ch/media/referenzen/CleanWin_Referenz_Solarfassade_6.webp\",\"name\":\"Unterhaltsreinigung Solarfassade Diamant Keller GebÃ¤ude\",\"provider\":{\"@type\":\"LocalBusiness\",\"name\":\"CleanWin GmbH\",\"url\":\"https://cleanwin.ch/\"}},\"position\":2}]},\"name\":\"Unsere Referenzen | Professionelle Reinigungsarbeiten | CleanWin\",\"url\":\"https://cleanwin.ch/referenzen/\"}",
+  "last_modified": "Sun, 30 Aug 2026 11:01:20 GMT",
+  "robots": "index, follow",
+  "semantic_hash": "0fe34bf72b15cda0fc066e839ef5ba9d9826fe47c60e6c9052a603c1df0047b6",
+  "status": 200,
+  "title": "Unsere Referenzen | Professionelle Reinigungsarbeiten | CleanWin",
+  "url": "https://cleanwin.ch/referenzen/"
+}

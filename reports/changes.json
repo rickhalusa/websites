@@ -1,0 +1,2417 @@
+[
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/ueber-uns/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/ueber-uns/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/kontakt/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/kontakt/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/referenzen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/referenzen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/jobs/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/jobs/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/offerte-reinigungsfirma/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/offerte-reinigungsfirma/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/impressum/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/impressum/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/datenschutz/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/datenschutz/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/agb/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/agb/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/baureinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/baureinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/bueroreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/bueroreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fassadenreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fassadenreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/fensterreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/fensterreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/graffiti-entfernung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/graffiti-entfernung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/hausreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/hausreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/solarreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/solarreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/steinreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/steinreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/treppenhausreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/treppenhausreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/umzugsreinigung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/umzugsreinigung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/winterthur/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/winterthur/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/unkrautbekaempfung/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/andelfingen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/andelfingen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/duebendorf/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/duebendorf/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/frauenfeld/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/frauenfeld/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/illnau-effretikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/illnau-effretikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/schaffhausen/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/schaffhausen/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/seuzach/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/seuzach/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/uster/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/uster/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/wetzikon/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/wetzikon/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/kloten/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/kloten/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/leistungen/reinigungsfirma/zuerich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/leistungen/reinigungsfirma/zuerich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/cleanwin-varias-stockwerkeigentum/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/cleanwin-varias-stockwerkeigentum/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/solarreinigung-wirtschaftlichkeit-roi/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/solarreinigung-wirtschaftlichkeit-roi/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/cleanwin-energie-bewegt-winterthur-engagement/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/cleanwin-energie-bewegt-winterthur-engagement/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/cleanwin-ckw-partnerschaft-solarreinigung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/cleanwin-ckw-partnerschaft-solarreinigung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/cleanwin-farbxpress-partnerschaft-reinigung-anstrich/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/cleanwin-farbxpress-partnerschaft-reinigung-anstrich/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/cleanwin-fensterwerk-partnerschaft-fenster-sanierung/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/cleanwin-fensterwerk-partnerschaft-fenster-sanierung/"
+  },
+  {
+    "blocks": {},
+    "categories": [
+      "baseline"
+    ],
+    "fields": {},
+    "final_url": "https://cleanwin.ch/blog/test-post/",
+    "first_baseline": true,
+    "reasons": [
+      "Baseline erstellt"
+    ],
+    "risk": "info",
+    "status": 200,
+    "url": "https://cleanwin.ch/blog/test-post/"
+  }
+]

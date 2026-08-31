@@ -1,0 +1,56 @@
+{
+  "blocks": {
+    "alle-artikel": {
+      "digest": "c1b1d9d9325353314218da8b8594258aed9423a194868f75c5cc4b1377b323e8",
+      "heading": "Alle Artikel",
+      "key": "alle-artikel",
+      "text": "Alle Artikel Ratgeber Die Vorteile der professionellen BÃ¼roreinigung (CMS Test) Ein sauberer Arbeitsplatz ist nicht nur eine Frage der Hygiene, sondern beeinflusst auch die Zufriedenheit und ProduktivitÃ¤t Ihrer Mitarbeiter. 20. Apr. 2026 3 Min Synergie CleanWin & VARIAS: Stockwerkeigentum â Sauberkeit, Werterhalt und Harmonie Wie professionelle Reinigung in Stockwerkeigentum-Liegenschaften Konflikte vermeidet und den Immobilienwert langfristig steigert. 12. Nov. 2025 7 Min Engagement CleanWin tritt energie bewegt winterthur bei Unser Engagement fÃ¼r die regionale Energiewende â Solarreinigung als Baustein der Energieeffizienz. 15. Okt. 2025 5 Min Partnerschaft CleanWin & Fensterwerk: Wenn Fensterreinigung nicht reicht Von der Fensterreinigung bis zum Austausch â Entdecken Sie unsere Partnerschaft fÃ¼r KomplettlÃ¶sungen. 10. Okt. 2025 5 Min Partnerschaft CleanWin & Farbxpress: Wenn Reinigung nicht reicht Von der Fassadenreinigung bis zum Neuanstrich â Entdecken Sie unsere Partnerschaft fÃ¼r KomplettlÃ¶sungen. 5. Okt. 2025 5 Min Partnerschaft CleanWin & CKW: Gemeinsam fÃ¼r maximale SolarertrÃ¤ge Entdecken Sie unsere Partnerschaft mit CKW fÃ¼r professionelle Solarreinigung und Wartung im Grossraum ZÃ¼rich. 1. Okt. 2025 5 Min"
+    },
+    "lohnt-sich-solarreinigung-roi-rechnung-f-r-ihre-pv-anlage": {
+      "digest": "846c90bdb5ebf844d58de392177c1b0c228b058dfaba47517fc1721d0a8ee10d",
+      "heading": "Lohnt sich Solarreinigung? ROI-Rechnung fÃ¼r Ihre PV-Anlage",
+      "key": "lohnt-sich-solarreinigung-roi-rechnung-f-r-ihre-pv-anlage",
+      "text": "Featured Article Ratgeber Lohnt sich Solarreinigung? ROI-Rechnung fÃ¼r Ihre PV-Anlage Wann rechnet sich professionelle Reinigung? Konkrete ROI-Zahlen fÃ¼r KEV-Anlagen und moderne Systeme â mit echten Praxisbeispielen. 17. Oktober 2025 6 Min Lesezeit Artikel lesen"
+    },
+    "ratgeber-news": {
+      "digest": "ff0cbf4e39c0049f651bb10b0776c24132197431cd46f03ef5796ae195cbe638",
+      "heading": "Ratgeber & News",
+      "key": "ratgeber-news",
+      "text": "Ratgeber & News Expertenwissen zu GebÃ¤udereinigung, Solarreinigung und Fensterreinigung. Tipps, Tricks und aktuelle Branchennews."
+    },
+    "solarreinigung-mit-drohnen-ein-innovativer-schritt-in-die-zukunft": {
+      "digest": "ced1dbeeb8c6c0a85d65a1c1837f27a00a0c448357d626ffe0cb03df1889c96a",
+      "heading": "Solarreinigung mit Drohnen â ein innovativer Schritt in die Zukunft",
+      "key": "solarreinigung-mit-drohnen-ein-innovativer-schritt-in-die-zukunft",
+      "text": "Featured Article Innovation Solarreinigung mit Drohnen â ein innovativer Schritt in die Zukunft CleanWin & Remote Vision testen Drohnen-Solarreinigung: Chemiefrei, sicher, zukunftsorientiert. Start MÃ¤rz 2026. 31. Januar 2026 6 Min Lesezeit Artikel lesen"
+    }
+  },
+  "canonical": "https://cleanwin.ch/blog/",
+  "content_chars": 1902,
+  "content_type": "text/html",
+  "description": "Expertenwissen zu GebÃ¤udereinigung, Solarreinigung & Fensterreinigung. Tipps, Tricks und Branchennews von CleanWin â Jetzt Offerte erhalten.",
+  "etag": "",
+  "final_url": "https://cleanwin.ch/blog/",
+  "h1": [
+    "Ratgeber & News"
+  ],
+  "html_bytes": 228774,
+  "internal_links": [
+    "https://cleanwin.ch/",
+    "https://cleanwin.ch/blog/cleanwin-ckw-partnerschaft-solarreinigung/",
+    "https://cleanwin.ch/blog/cleanwin-energie-bewegt-winterthur-engagement/",
+    "https://cleanwin.ch/blog/cleanwin-farbxpress-partnerschaft-reinigung-anstrich/",
+    "https://cleanwin.ch/blog/cleanwin-fensterwerk-partnerschaft-fenster-sanierung/",
+    "https://cleanwin.ch/blog/cleanwin-remotevision-drohnen-solarreinigung/",
+    "https://cleanwin.ch/blog/cleanwin-varias-stockwerkeigentum/",
+    "https://cleanwin.ch/blog/solarreinigung-wirtschaftlichkeit-roi/",
+    "https://cleanwin.ch/blog/test-post/"
+  ],
+  "jsonld": "{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#organization\",\"@type\":\"LocalBusiness\",\"additionalType\":[\"https://schema.org/CleaningService\",\"https://schema.org/HomeAndConstructionBusiness\"],\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"CH\",\"addressLocality\":\"Winterthur\",\"addressRegion\":\"ZH\",\"postalCode\":\"8406\",\"streetAddress\":\"Wasserfurristrasse 37\"},\"areaServed\":[{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Winterthur\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"ZÃ¼rich\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Kloten\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Uster\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Wetzikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"DÃ¼bendorf\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Seuzach\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"TG\"},\"name\":\"Frauenfeld\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"SH\"},\"name\":\"Schaffhausen\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Illnau-Effretikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Andelfingen\"}],\"contactPoint\":{\"@type\":\"ContactPoint\",\"areaServed\":\"CH\",\"availableLanguage\":[\"de\",\"en\"],\"contactType\":\"Kundenservice\",\"email\":\"kontakt@cleanwin.ch\",\"telephone\":\"+41525512424\"},\"description\":\"Professionelle Reinigungsfirma fÃ¼r Solar-, Fenster-, Fassaden- und GebÃ¤udereinigung in Winterthur, ZÃ¼rich und Umgebung\",\"email\":\"kontakt@cleanwin.ch\",\"foundingDate\":\"2025-03-01\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":47.499,\"longitude\":8.724},\"image\":\"https://cleanwin.ch/og-image.webp\",\"legalName\":\"CleanWin GmbH\",\"logo\":\"https://cleanwin.ch/cleanwin-logo.svg\",\"name\":\"CleanWin GmbH\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"08:00\"}],\"paymentAccepted\":[\"Cash\",\"Rechnung\",\"Twint\",\"Kreditkarte\"],\"priceRange\":\"CHF 199 - CHF 2000\",\"slogan\":\"Professionelle Reinigung fÃ¼r Winterthur & ZÃ¼rich\",\"telephone\":\"+41525512424\",\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#website\",\"@type\":\"WebSite\",\"name\":\"CleanWin\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=search_term_string\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://cleanwin.ch/leistungen?q={search_term_string}\"}},\"publisher\":{\"@id\":\"https://cleanwin.ch/#organization\"},\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/blog/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://cleanwin.ch/#organization\"},\"description\":\"Expertenwissen zu GebÃ¤udereinigung, Solarreinigung & Fensterreinigung. Tipps, Tricks und Branchennews von CleanWin â Jetzt Offerte erhalten.\",\"isPartOf\":{\"@id\":\"https://cleanwin.ch/#website\"},\"name\":\"Blog â Ratgeber & News | CleanWin\",\"url\":\"https://cleanwin.ch/blog/\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"Blog\",\"description\":\"Expertenwissen zu GebÃ¤udereinigung, Solarreinigung & Fensterreinigung. Tipps, Tricks und Branchennews von CleanWin â Jetzt Offerte erhalten.\",\"name\":\"CleanWin Ratgeber & News\",\"publisher\":{\"@id\":\"https://cleanwin.ch/#organization\"},\"url\":\"https://cleanwin.ch/blog/\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://cleanwin.ch/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"name\":\"Blog\",\"position\":2}]}",
+  "last_modified": "Sun, 30 Aug 2026 10:56:46 GMT",
+  "robots": "",
+  "semantic_hash": "e3f89c0ea3a14fac75b39e0cbc9fdd5e6c1efdfe0d75aa4353dbba831d8995c4",
+  "status": 200,
+  "title": "Blog CleanWin | Reinigungstipps & Fachwissen",
+  "url": "https://cleanwin.ch/blog/"
+}
