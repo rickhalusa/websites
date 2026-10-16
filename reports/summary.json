@@ -1,18 +1,18 @@
 {
-  "ai_queue": 48,
+  "ai_queue": 64,
   "baseline": 0,
-  "changed": 48,
+  "changed": 64,
   "checked": 160,
-  "checked_at": "2026-10-15T09:55:51.621903+00:00",
+  "checked_at": "2026-10-16T09:50:28.962307+00:00",
   "fetch_failures": 0,
   "link_issues": 0,
   "mode": "daily",
   "risk_counts": {
     "critical": 0,
-    "high": 1,
+    "high": 0,
     "low": 0,
-    "medium": 47
+    "medium": 64
   },
-  "unchanged": 112,
+  "unchanged": 96,
   "urls_in_sitemap": 160
 }
