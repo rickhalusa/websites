@@ -1,6 +1,6 @@
 # Cleanwin Änderungsbericht
 
-Modus daily
+Modus weekly
 URLs in Sitemap 162
 Geprüft 162
 Unverändert 162
