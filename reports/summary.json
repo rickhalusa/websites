@@ -3,10 +3,10 @@
   "baseline": 0,
   "changed": 0,
   "checked": 162,
-  "checked_at": "2026-11-08T12:12:56.233482+00:00",
+  "checked_at": "2026-11-09T13:54:32.383707+00:00",
   "fetch_failures": 0,
   "link_issues": 0,
-  "mode": "weekly",
+  "mode": "daily",
   "risk_counts": {
     "critical": 0,
     "high": 0,
