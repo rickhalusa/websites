@@ -1,9 +1,9 @@
 {
-  "ai_queue": 0,
+  "ai_queue": 51,
   "baseline": 0,
-  "changed": 0,
+  "changed": 51,
   "checked": 162,
-  "checked_at": "2026-11-09T13:54:32.383707+00:00",
+  "checked_at": "2026-11-10T13:28:56.091271+00:00",
   "fetch_failures": 0,
   "link_issues": 0,
   "mode": "daily",
@@ -11,8 +11,8 @@
     "critical": 0,
     "high": 0,
     "low": 0,
-    "medium": 0
+    "medium": 51
   },
-  "unchanged": 162,
+  "unchanged": 111,
   "urls_in_sitemap": 162
 }
