@@ -1,26 +1,58 @@
 {
   "blocks": {
-    "outer-container": {
-      "digest": "c19a192dff1f2561798a1b02a03e787d3cea382f0730e35cc94c2fb388bcd8cb",
+    "button-6": {
+      "digest": "cdb6d03dc864bd540fb767af9dd7b070a58f22b11141ef541c82f5fea3c0ec6d",
       "heading": "",
-      "key": "outer-container",
-      "text": "Please wait while your request is being verified..."
+      "key": "button-6",
+      "text": "Jetzt bewerben"
+    },
+    "div-1": {
+      "digest": "cda08472e7640f76faac970367440ac072128f57021980c8c73dd21a2754f027",
+      "heading": "",
+      "key": "div-1",
+      "text": "Teilzeit 40-50 % Eintritt ab sofort Winterthur"
+    },
+    "div-4": {
+      "digest": "13e0d11bc8ec1f808b222d844a09a5541f29d681cf06b3d8945b52783fb66965",
+      "heading": "",
+      "key": "div-4",
+      "text": "Ihre Aufgaben Kreditorenbuchhaltung: Rechnungen prÃ¼fen, kontieren, erfassen und Zahlungen vorbereiten Debitorenbuchhaltung: Rechnungen stellen, ZahlungseingÃ¤nge Ã¼berwachen, Mahnwesen Vorbereitung von Monats- und Jahresabschluss in Zusammenarbeit mit unserem TreuhÃ¤nder Allgemeine Administration: Korrespondenz, Offerten, Auftragsbearbeitung und Ablage Telefon und E-Mail: erste Ansprechperson fÃ¼r Kundinnen, Kunden und Lieferanten UnterstÃ¼tzung bei Personaladministration und Einsatzplanung Ihr Profil KaufmÃ¤nnische Ausbildung (EFZ) oder vergleichbare Ausbildung Fundierte Berufserfahrung in der Kreditoren- und Debitorenbuchhaltung Sicherer Umgang mit MS Office und einer Buchhaltungssoftware (z. B. Bexio, Abacus oder Banana) Sehr gute Deutschkenntnisse in Wort und Schrift Exakte, selbststÃ¤ndige und zuverlÃ¤ssige Arbeitsweise Freundliches Auftreten und Freude an einem kleinen, dynamischen Team Wir bieten Abwechslungsreiche Stelle mit viel Eigenverantwortung Kurze Entscheidungswege und ein kollegiales Team Faire Anstellungsbedingungen Moderner Arbeitsplatz an der Wasserfurristrasse 37 in Winterthur Gute Erreichbarkeit mit ÃV und Auto"
+    },
+    "h3-2": {
+      "digest": "7f5336cb55d0fc3363e008ee5ed04e028e58c7f6c596100203d764485703b038",
+      "heading": "",
+      "key": "h3-2",
+      "text": "Sachbearbeiter/in Administration & Buchhaltung (m/w/d)"
+    },
+    "p-3": {
+      "digest": "6d3ce98e1cf1f553b4f28f65bdaf447566c187c48ddee3b0320a230fc223831c",
+      "heading": "",
+      "key": "p-3",
+      "text": "CleanWin ist eine Reinigungsfirma in Winterthur. Wir reinigen Fenster, Fassaden, Solaranlagen und GebÃ¤ude in der Region Winterthur und ZÃ¼rich. FÃ¼r unser BÃ¼ro suchen wir eine zuverlÃ¤ssige Person, die unser Backoffice selbststÃ¤ndig fÃ¼hrt und die Kreditoren- und Debitorenbuchhaltung im Griff hat."
+    },
+    "p-5": {
+      "digest": "502e9e6ce7609ff904cdb40de0f4ab5bdc4f7763f5fc17a87e013bbbf6ab4933",
+      "heading": "",
+      "key": "p-5",
+      "text": "Interessiert? Senden Sie uns Ihre vollstÃ¤ndigen Bewerbungsunterlagen Ã¼ber das Formular unten. Fragen beantworten wir gerne unter 052 551 24 24 ."
     }
   },
-  "canonical": "",
-  "content_chars": 51,
+  "canonical": "https://cleanwin.ch/jobs/",
+  "content_chars": 1712,
   "content_type": "text/html",
-  "description": "",
+  "description": "Jobs bei CleanWin Winterthur | Sachbearbeiter/in Administration & Buchhaltung (m/w/d) 40-50 % | Kreditoren & Debitoren | Eintritt ab sofort | Jetzt bewerben | â 052 551 24 24",
   "etag": "",
   "final_url": "https://cleanwin.ch/jobs/",
-  "h1": [],
-  "html_bytes": 11945,
+  "h1": [
+    "VerstÃ¤rken Sie unser BÃ¼ro-Team!"
+  ],
+  "html_bytes": 237686,
   "internal_links": [],
-  "jsonld": "",
-  "last_modified": "",
+  "jsonld": "{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#organization\",\"@type\":\"LocalBusiness\",\"additionalType\":[\"https://schema.org/CleaningService\",\"https://schema.org/HomeAndConstructionBusiness\"],\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"CH\",\"addressLocality\":\"Winterthur\",\"addressRegion\":\"ZH\",\"postalCode\":\"8406\",\"streetAddress\":\"Wasserfurristrasse 37\"},\"areaServed\":[{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Winterthur\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"ZÃ¼rich\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Kloten\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Uster\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Wetzikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"DÃ¼bendorf\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Seuzach\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"TG\"},\"name\":\"Frauenfeld\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"SH\"},\"name\":\"Schaffhausen\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Illnau-Effretikon\"},{\"@type\":\"City\",\"containedInPlace\":{\"@type\":\"AdministrativeArea\",\"addressCountry\":\"CH\",\"name\":\"ZH\"},\"name\":\"Andelfingen\"}],\"contactPoint\":{\"@type\":\"ContactPoint\",\"areaServed\":\"CH\",\"availableLanguage\":[\"de\",\"en\"],\"contactType\":\"Kundenservice\",\"email\":\"kontakt@cleanwin.ch\",\"telephone\":\"+41525512424\"},\"description\":\"Professionelle Reinigungsfirma fÃ¼r Solar-, Fenster-, Fassaden- und GebÃ¤udereinigung in Winterthur, ZÃ¼rich und Umgebung\",\"email\":\"kontakt@cleanwin.ch\",\"foundingDate\":\"2025-03-01\",\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":47.499,\"longitude\":8.724},\"image\":\"https://cleanwin.ch/og-image.webp\",\"legalName\":\"CleanWin GmbH\",\"logo\":\"https://cleanwin.ch/cleanwin-logo.svg\",\"name\":\"CleanWin GmbH\",\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"17:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"08:00\"}],\"paymentAccepted\":[\"Cash\",\"Rechnung\",\"Twint\",\"Kreditkarte\"],\"priceRange\":\"CHF 199 - CHF 2000\",\"slogan\":\"Professionelle Reinigung fÃ¼r Winterthur & ZÃ¼rich\",\"telephone\":\"+41525512424\",\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@id\":\"https://cleanwin.ch/#website\",\"@type\":\"WebSite\",\"name\":\"CleanWin\",\"potentialAction\":{\"@type\":\"SearchAction\",\"query-input\":\"required name=search_term_string\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://cleanwin.ch/leistungen?q={search_term_string}\"}},\"publisher\":{\"@id\":\"https://cleanwin.ch/#organization\"},\"url\":\"https://cleanwin.ch\"}\n{\"@context\":\"https://schema.org\",\"@type\":\"JobPosting\",\"datePosted\":\"2026-11-16\",\"description\":\"<p>FÃ¼r unser BÃ¼ro in Winterthur suchen wir per sofort eine zuverlÃ¤ssige Person (40-50 %), die unser Backoffice selbststÃ¤ndig fÃ¼hrt und die Kreditoren- und Debitorenbuchhaltung im Griff hat.</p><p><strong>Ihre Aufgaben:</strong> Kreditorenbuchhaltung (Rechnungen prÃ¼fen, kontieren, erfassen, Zahlungen vorbereiten), Debitorenbuchhaltung (Fakturierung, ZahlungseingÃ¤nge, Mahnwesen), Vorbereitung Monats- und Jahresabschluss mit dem TreuhÃ¤nder, allgemeine Administration, Telefon und E-Mail, UnterstÃ¼tzung bei Personaladministration und Einsatzplanung.</p><p><strong>Ihr Profil:</strong> KaufmÃ¤nnische Ausbildung (EFZ) oder vergleichbar, fundierte Erfahrung in Kreditoren- und Debitorenbuchhaltung, sicherer Umgang mit MS Office und Buchhaltungssoftware, sehr gute Deutschkenntnisse, exakte und selbststÃ¤ndige Arbeitsweise.</p>\",\"directApply\":true,\"employmentType\":\"PART_TIME\",\"hiringOrganization\":{\"@type\":\"Organization\",\"logo\":\"https://cleanwin.ch/cleanwin-logo.svg\",\"name\":\"CleanWin GmbH\",\"sameAs\":\"https://cleanwin.ch\"},\"industry\":\"GebÃ¤udereinigung\",\"jobLocation\":{\"@type\":\"Place\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"CH\",\"addressLocality\":\"Winterthur\",\"postalCode\":\"8406\",\"streetAddress\":\"Wasserfurristrasse 37\"}},\"jobStartDate\":\"Ab sofort\",\"occupationalCategory\":\"Sachbearbeitung Administration und Buchhaltung\",\"qualifications\":\"KaufmÃ¤nnische Ausbildung (EFZ) oder vergleichbar. Fundierte Berufserfahrung in der Kreditoren- und Debitorenbuchhaltung.\",\"title\":\"Sachbearbeiter/in Administration & Buchhaltung (m/w/d) 40-50 %\",\"validThrough\":\"2027-05-31\",\"workHours\":\"40-50 %\"}",
+  "last_modified": "Mon, 16 Nov 2026 10:07:59 GMT",
   "robots": "",
-  "semantic_hash": "d3fe9a033e6b1e8f5d28b00abfd502077f326a9b7ca0a44fdac17521bad96ecf",
+  "semantic_hash": "e6268f9b29ce2d347c2c2314223f9755b8e9123fe01a7028b4679ece3800be98",
   "status": 200,
-  "title": "One moment, please...",
+  "title": "Job: Sachbearbeiter/in Administration & Buchhaltung 40-50 % | CleanWin Winterthur",
   "url": "https://cleanwin.ch/jobs/"
 }
