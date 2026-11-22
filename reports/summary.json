@@ -1,18 +1,18 @@
 {
-  "ai_queue": 0,
-  "baseline": 0,
-  "changed": 0,
-  "checked": 162,
-  "checked_at": "2026-11-20T14:00:47.567170+00:00",
+  "ai_queue": 148,
+  "baseline": 13,
+  "changed": 157,
+  "checked": 175,
+  "checked_at": "2026-11-22T13:38:28.585970+00:00",
   "fetch_failures": 0,
   "link_issues": 0,
-  "mode": "daily",
+  "mode": "weekly",
   "risk_counts": {
     "critical": 0,
-    "high": 0,
-    "low": 0,
-    "medium": 0
+    "high": 69,
+    "low": 9,
+    "medium": 79
   },
-  "unchanged": 162,
-  "urls_in_sitemap": 162
+  "unchanged": 5,
+  "urls_in_sitemap": 175
 }
